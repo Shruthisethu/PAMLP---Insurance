@@ -1,7 +1,7 @@
 # PAMLP---Insurance
 Predictive Analytics using Machine Learning in Python - Predicting  Insurance Claims
 
-This project, conducted during my MSc in Data Analytics, applied various data analytics techniques to address real-world business problems. I developed a predictive model for retail sales trends using linear regression, optimized product quality in a manufacturing setting through statistical methods like ANOVA and t-tests, and built a machine learning model to detect fraudulent credit card transactions. The models achieved high predictive accuracy, providing valuable insights for business decision-making. The project emphasizes the integration of data analytics and machine learning to improve business operations across industries.
+Developed a predictive model using machine learning techniques to assess claim frequency in the automobile insurance industry. The project involved handling a large, imbalanced dataset and applying Random Forest Classifier to predict the likelihood of insurance claims. The model achieved 98% accuracy by identifying key features that influence claim filings, optimizing resource allocation, and detecting potential fraud.
 
 
 This project has been created and executed using Google Colabs.
